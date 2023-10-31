@@ -1,0 +1,35 @@
+.card {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 2px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin: 24px;
+  padding: 24px;
+  text-align: center;
+}
+
+.card img {
+  size: cover;
+  position: center;
+}
+
+.card h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.card p {
+  font-size: 14px;
+  font-weight: 200;
+  color: rgb(113, 113, 113)
+}
+
+
+.cards {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+.footer {
+  background-color: rgb(88, 88, 88);
+  /* height: 200px; */
+  color: rgb(219, 219, 219);
+  padding: 60px;
+}
+
+.footer h6 {
+  color: rgba(84, 213, 131, 0.9);
+  font-size: 36px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.links {
+  text-align: center;
+}
+
+.icon-red {
+  color: red;
+}
